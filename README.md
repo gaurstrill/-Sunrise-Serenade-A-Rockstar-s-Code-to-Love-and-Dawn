@@ -1,5 +1,3 @@
-# -Sunrise-Serenade-A-Rockstar-s-Code-to-Love-and-Dawn
-
 # Sunrise Serenade: A Rockstar's Ode to Love and Dawn
 
 Welcome to Sunrise Serenade, where the dawn meets the heart of a rockstar's journey through love and longing. This code captures the essence of poetic expression, intertwining themes of sunrise, sunshine, and the presence of a beloved through the language Rockstar. 
