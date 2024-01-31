@@ -6,7 +6,7 @@ Welcome to Sunrise Serenade, where the dawn meets the heart of a rockstar's jour
 Sunrise Serenade is a lyrical representation of emotions, depicted through code. It embodies the journey of a rockstar, seeking love and inspiration amidst the dawn and sunshine. Through the power of programming, this project encapsulates the essence of poetic verses into executable lines.
 
 ## Features
-- Uses the Rockstan programming lang to Capture the imagery of dawn and sunshine as metaphors for love and inspiration.
+- Uses the Rockstar programming lang to Capture the imagery of dawn and sunshine as metaphors for love and inspiration.
 - Expresses emotions through code comments and variable names.
 - Represents the ebb and flow of emotions in a poetic narrative structure.
 - Provides a unique and creative approach to coding projects.
