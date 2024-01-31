@@ -15,4 +15,4 @@ Sunrise Serenade is a lyrical representation of emotions, depicted through code.
 Contributions are welcome! If you'd like to enhance Sunrise Serenade or add new features, feel free to fork the repository and submit a pull request with your changes.
 
 ## Credits
-Sunrise Serenade was created by Me for the love of my life, my sunshine, lol
+Sunrise Serenade was created by Me, lol
